@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-IN</language>
     <copyright>© 2020</copyright>
-    <lastBuildDate>Thu, 23 Jul 2020 21:56:20 +0530</lastBuildDate>
-    
-	<atom:link href="https://siddhantagarwal.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Jul 2020 21:56:20 +0530</lastBuildDate><atom:link href="https://siddhantagarwal.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Games</title>
       <link>https://siddhantagarwal.com/games/game_list/</link>
