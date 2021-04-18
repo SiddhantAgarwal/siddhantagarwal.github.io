@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siddhant Agarwal</title>
+    <link>https://siddhantagarwal.com/</link>
+    <description>Recent content on Siddhant Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-IN</language>
+    <copyright>© 2020</copyright>
+    <lastBuildDate>Thu, 23 Jul 2020 21:56:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://siddhantagarwal.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Games</title>
+      <link>https://siddhantagarwal.com/games/game_list/</link>
+      <pubDate>Thu, 23 Jul 2020 21:56:20 +0530</pubDate>
+      
+      <guid>https://siddhantagarwal.com/games/game_list/</guid>
+      <description>Currently Playing  Watch Dogs 2 CS:GO Anno 1800 COD:MW (2019)  Played  Assasins creed  Assasins creed Assasins creed II Assasins creed III Assasins creed IV Assasins creed Odyssey Assasins creed Origins Assasins creed Syndicate   Civilization  Civilization 5 Civilization 6   Control Crysis  Crysis Crysis 3   Farcry  Farcry Farcry 3 Farcry 4   GTA  GTA Vice City GTA San Andreas GTA IV GTA V   Half-Life  Half-Life Half-Life 2   Max Payne  Max Payne Max Payne 2 Max Payne 3   Metro Exodus NFS  NFS Heat NFS Hot Pursuit NFS MW NFS Payback   Prince of Persia  Price of persia: Sands of Times Price of persia: Warrior Within Price of persia: The Two Thrones   Read Dead Redemption 2  </description>
+    </item>
+    
+    <item>
+      <title>Gaming build for 2020</title>
+      <link>https://siddhantagarwal.com/blog/gaming-build-2020/</link>
+      <pubDate>Wed, 20 May 2020 21:51:27 +0530</pubDate>
+      
+      <guid>https://siddhantagarwal.com/blog/gaming-build-2020/</guid>
+      <description>This build is great for both workstation/gaming workloads and can handle most gruelling workstation tasks or most AAA titles thrown at it 1440p at &amp;gt;60 Frame rates.
+We are going with Ryzen and to address current AMD vs Intel debate, AMD Ryzen 3rd generation delivers bang for a buck performance, it handles workstation workloads better than it&amp;rsquo;s intel counterparts due to higher core/thread counts.
+ Processor: AMD Ryzen 7 3700X 3.</description>
+    </item>
+    
+    <item>
+      <title>My ryzen gaming build</title>
+      <link>https://siddhantagarwal.com/blog/my-gaming-build/</link>
+      <pubDate>Fri, 23 Mar 2018 21:47:02 +0530</pubDate>
+      
+      <guid>https://siddhantagarwal.com/blog/my-gaming-build/</guid>
+      <description>I have a huge interest in PC Gaming, since childhood have played plethora of Titles spanning various categories GTA, Assassins Creed, Crysis, Max Payne including Roller Coaster Tycoon, I still like that game.
+But I never had the hardware to max out any game to ultra settings and playing all the games on ultra was on my TODO list from a long time.
+So, I decided to build myself a decent gaming pc which would play all the current Titles on Ultra and the Titles of coming 2–3 Years.</description>
+    </item>
+    
+  </channel>
+</rss>
